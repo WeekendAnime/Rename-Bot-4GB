@@ -50,9 +50,9 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
 
 For Example :-
 
-<code>By @Madflix_Bots</code>
+<code>By @Anime_Weekends</code>
 
-💬 For Any Help Contact @MadflixOfficials
+💬 For Any Help Contact @Jeffrey_Weekends
 """
 
 
